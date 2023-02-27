@@ -65,7 +65,8 @@ public class JobSelection
 	    return totalEarnings;
 	}
 
-	private static class Job {
+	private static class Job {![Uploading photo 1.jpg…]()
+
 	    int startTime;
 	    int endTime;
 	    int profit;
@@ -78,6 +79,7 @@ public class JobSelection
 
 	    public int getEndTime() {
 	        return endTime;
+
 	    }
 	}
 }
